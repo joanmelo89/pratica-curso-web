@@ -1,0 +1,41 @@
+.menu{
+	background-color: #FFF;
+}
+
+.center{
+	text-align: center;
+}
+
+img.profile{
+	width: 320px;
+	height: 320px;
+	border-radius: 50%;
+	border: 5px double #0069D9;
+}
+.home{
+	background-image: url('../img/tec.jpg');
+	background-size: cover;
+}
+
+#contato{
+	background-color: #6AA2D5;
+	padding: 1rem;
+}
+
+.title{
+	font-weight: bold;
+}
+
+.footer{
+	border-top: 1px solid #CCC;
+	padding-top: 6px;
+}
+
+.conheca-me:hover{
+	background-color: #FFF;
+	color: #007bff;
+}
+
+.cor-hr{
+	border-color: #FFF;
+}
